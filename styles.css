@@ -1,6 +1,6 @@
 .name {
-font-size:300%;
-align:center;
+font-size:200%;
+align:"center";
  }
 
  .headers {
@@ -12,7 +12,11 @@ color:#696969;
  align:center;
  } 
 
-#border {
+#denmark {
+color:#696969:
+}
+
+#bigbox {
 	width: 900px;
 	height: 900px;
 	border:15px; 

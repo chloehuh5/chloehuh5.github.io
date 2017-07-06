@@ -1,9 +1,19 @@
 .name {
- style="font-size:300%" align="center";
+font-size:300%;
+align:center;
  }
+
  .headers {
- style="color:grey";
+color:#696969;
  }
+
  .POW {
- style="color:grey" align="center";
+color:#696969;
+ align:center;
  } 
+
+p {
+	border:15px; 
+ borer-style:solid;
+ border-color:#FFB6C1;
+}

@@ -12,7 +12,9 @@ color:#696969;
  align:center;
  } 
 
-p {
+#border {
+	width: 900px;
+	height: 900px;
 	border:15px; 
  borer-style:solid;
  border-color:#FFB6C1;
